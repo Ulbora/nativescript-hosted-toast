@@ -1,0 +1,31 @@
+{
+  "name": "nativescript-hosted-toast",
+  "version": "1.0.0",
+  "description": "A NativeScript Toast Plugin for Hosted Applications.",
+  "main": "toast.js",
+  "nativescript": {
+    "platforms": {
+      "android": "1.3.0",
+      "ios": "1.3.0"
+    }
+  },
+  "keywords": [
+    "NativeScript",
+    "Toast",    
+    "Android"
+  ],
+  "author": {
+    "name": "Ken Williamson",
+    "email": "kenulborapublic@gmail.com",
+    "url": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ulbora/nativescript-hosted-toast.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Ulbora/nativescript-hosted-toast.git"
+  },
+  "license": "MIT"
+  
+}
